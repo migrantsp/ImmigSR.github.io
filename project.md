@@ -23,7 +23,7 @@ The data set covers the welfare rights of labor migrants, asylum seekers and rec
   <img src="assets/img/Socium.jpg" />
     
 </p>
-<p style="text-align:justify">
+
   
 #### Next Steps
 
@@ -46,7 +46,7 @@ MigSP builds on a methodology and set of questions that was developed in the rea
 
 In the MigSP data set, immigrant welfare rights are understood as an umbrella term which encompasses a variety of direct and indirect restrictions for different groups of immigrants across an array of different benefit and services. For the operationalization of the concept, we compare the access of immigrants to that of citizens. In contexts where immigrants are granted rights equivalent to those of citizens, we define this as full inclusion, whereas full exclusion occurs when immigrants cannot access any of the benefits and services that are provided to citizens. Three dimensions need to be recognized: These are (1) the differences between types of migrants as differentiated by legal category, (2) differences between benefit types within a broader understanding of the welfare state, (3) differences between direct and indirect forms of restricting immigrant rights.
   
-  </p>
+
 
 ---
 
