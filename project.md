@@ -1,5 +1,5 @@
 ---
-layout: project.html
+layout: project
 title: Migrant Social Protection
 
 kramdown:
