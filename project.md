@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Migrant Social Protection
-permalink: /project.md
+
 kramdown:
   input: GFM
 ---
