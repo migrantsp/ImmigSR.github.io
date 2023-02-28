@@ -20,7 +20,7 @@ MigSP offers a new set of quantitative comparative measures of de jure immigrant
 The data set covers the welfare rights of labor migrants, asylum seekers and recognized refugees. It contains indicators on access to social assistance and unemployment insurance as well as on the consequences of welfare benefit receipt and indirect measures preventing access to the benefits.
 
   <p align="center">
-  <img src="assets/img/Socium.jpg" />
+  <img src="assets/img/Socium.jpg">
     
 </p>
 
@@ -28,7 +28,6 @@ The data set covers the welfare rights of labor migrants, asylum seekers and rec
 #### Next Steps
 
 The project aims to further develop the MigSP data set using further funding via the Collaborative Research Centre "Global Dynamics of Social Policy" at the University of Bremen. In addition to social assistance and unemployment insurance, the data set will cover non-contributory child benefits, non-contributory old-age pensions and employment injury insurance in order to gain a more comprehensive vision of immigrant welfare rights. We also extend the data set to the years 2019 to 2021. 
-</p>
 
 ---
 
@@ -46,7 +45,5 @@ MigSP builds on a methodology and set of questions that was developed in the rea
 
 In the MigSP data set, immigrant welfare rights are understood as an umbrella term which encompasses a variety of direct and indirect restrictions for different groups of immigrants across an array of different benefit and services. For the operationalization of the concept, we compare the access of immigrants to that of citizens. In contexts where immigrants are granted rights equivalent to those of citizens, we define this as full inclusion, whereas full exclusion occurs when immigrants cannot access any of the benefits and services that are provided to citizens. Three dimensions need to be recognized: These are (1) the differences between types of migrants as differentiated by legal category, (2) differences between benefit types within a broader understanding of the welfare state, (3) differences between direct and indirect forms of restricting immigrant rights.
   
-
-
 ---
 
