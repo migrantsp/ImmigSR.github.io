@@ -28,7 +28,7 @@ The project aims to further develop the MigSP data set using further funding via
 
 ---
 
- <img width='250' align="left" src="assets/img/Bild_Variable.PNG" alt="" style="float: left">
+ <img width='500' align="left" src="assets/img/Bild_Variable.PNG" alt="" style="float: left">
 
 #### Methodology 
    
