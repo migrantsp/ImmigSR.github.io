@@ -27,8 +27,8 @@ The data set covers the welfare rights of labor migrants, asylum seekers and rec
 The project aims to further develop the MigSP data set using further funding via the Collaborative Research Centre "Global Dynamics of Social Policy" at the University of Bremen. In addition to social assistance and unemployment insurance, the data set will cover non-contributory child benefits, non-contributory old-age pensions and employment injury insurance in order to gain a more comprehensive vision of immigrant welfare rights. We also extend the data set to the years 2019 to 2021. 
 
 ---
-<img width="30%" src="Nature.jpg">
- <img align="left" src="assets/img/Bild_Variable.PNG" alt="" style="float: right">
+
+ <img width='250' align="left" src="assets/img/Bild_Variable.PNG" alt="" style="float: left">
 
 #### Methodology 
    
