@@ -8,7 +8,7 @@ title: MigSp Data
 
 Please refer to the data as: 
 
-Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Version 2022. SFB 1342. <ENTER LINK>
+Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Version 2022. SFB 1342. ENTER LINK
 
 Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Technical report. Version 2022. SFB 1342. https://www.socialpolicydynamics.de/f/fcedb0990c.pdf 
 
