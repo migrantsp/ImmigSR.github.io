@@ -38,7 +38,7 @@ MigSP builds on a methodology and set of questions that was developed in the rea
 
 ---
 
-<img width='600' height='350' align="right" src="assets/img/immigrant welfare rights.png" alt="" style="float: right">
+<img width='600' height='400' align="right" src="assets/img/immigrant welfare rights.png" alt="" style="float: right">
 
 #### Immigrant Welfare Rights
 
