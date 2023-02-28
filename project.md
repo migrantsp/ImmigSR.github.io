@@ -11,6 +11,11 @@ kramdown:
 <h2> Migrant Social Protection </h2>
 </p>
 
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
 The project investigates variations in immigrant welfare rights, i.e. how they evolve over time, and how they differ between countries. 
 
 MigSP offers a new set of quantitative comparative measures of de jure immigrant welfare rights in regard to unemployment insurance and social assistance benefits covering 39 countries in Europe, Latin America, North America, Oceania and Southeast Asia for the years 1980-2018. 
