@@ -7,7 +7,7 @@ kramdown:
 ---
 
 
-<p style="text-align: center;">
+<p style="text-align: center">
 <h2> Migrant Social Protection </h2>
 </p>
 
@@ -23,7 +23,7 @@ The data set covers the welfare rights of labor migrants, asylum seekers and rec
 </p>
 
 #### Next Steps
-<p style="text-align: justify;">
+<p style="text-align: justify">
 The project aims to further develop the MigSP data set using further funding via the Collaborative Research Centre "Global Dynamics of Social Policy" at the University of Bremen. In addition to social assistance and unemployment insurance, the data set will cover non-contributory child benefits, non-contributory old-age pensions and employment injury insurance in order to gain a more comprehensive vision of immigrant welfare rights. We also extend the data set to the years 2019 to 2021. 
 
 ---
