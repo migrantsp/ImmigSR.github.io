@@ -20,7 +20,7 @@ MigSP offers a new set of quantitative comparative measures of de jure immigrant
 The data set covers the welfare rights of labor migrants, asylum seekers and recognized refugees. It contains indicators on access to social assistance and unemployment insurance as well as on the consequences of welfare benefit receipt and indirect measures preventing access to the benefits.
 
   <p align="center">
-  <img src="assets/img/Socium.jpg">
+  <img src="assets/img/Socium.jpg"> </div>
     
 </p>
 
@@ -31,7 +31,7 @@ The project aims to further develop the MigSP data set using further funding via
 
 ---
 
- <img width='600' height='400' align="left" src="assets/img/Bild_Variable.PNG" alt="" style="float: left">
+ <img width='600' height='400' align="left" src="assets/img/Bild_Variable.PNG" alt="" style="float: left"> </div>
 
 #### Methodology 
    
