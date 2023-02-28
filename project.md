@@ -31,7 +31,7 @@ The project aims to further develop the MigSP data set using further funding via
 
 ---
 
- <img width='600' height='400' align="left" src="assets/img/Bild_Variable.PNG" alt="" style="float: left">
+ <img width='600' height='450' align="left" src="assets/img/Bild_Variable.PNG" alt="" style="float: left">
 
 #### Methodology 
    
@@ -39,7 +39,7 @@ MigSP builds on a methodology and set of questions that was developed in the rea
 
 ---
 
-<img width='600' height='450' align="right" src="assets/img/immigrant welfare rights.png" alt="" style="float: right">
+<img width='600' height='500' align="right" src="assets/img/immigrant welfare rights.png" alt="" style="float: right">
 
 #### Immigrant Welfare Rights
 
