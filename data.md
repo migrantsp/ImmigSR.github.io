@@ -16,5 +16,14 @@ References to the codebook should be made as:
 
 Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Technical report (SFB 1342 Technical Paper Series). Version 2022. SFB 1342. https://www.socialpolicydynamics.de/f/fcedb0990c.pdf
 
+<hr width="100%" 
+    color="#8fbc8f"
+        size="10" 
+        align="center">
+    
+   
+
+<h3> Download Links </h3>
+
 <a href=" migrantsp.github.io/_data/smell-my-city-website-master.zip">Download File Test</a>
 
