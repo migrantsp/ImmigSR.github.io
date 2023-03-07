@@ -10,6 +10,8 @@ title: ImmigSP Data
     color="#8fbc8f"
         size="20px" 
         align="center">
+        
+        <hr style="height:30px; coler:#8fbc8f; align:center">
 
 
 When using the data, please reference the following publications 
