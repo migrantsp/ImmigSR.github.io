@@ -1,9 +1,17 @@
 ---
 layout: default
-title: MigSp Data
+title: ImmigSP Data
 ---
 <p style="text-align: center;">
 <h2> MigSP Data </h2>
+
+<hr width="60%" 
+    color="#8fbc8f"
+        size="40" 
+        align="center">
+
+
+
 </p>
 
 When using the data, please reference the following publications 
@@ -18,7 +26,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 <hr width="100%" 
     color="#8fbc8f"
-        size="10" 
+        size="20" 
         align="center">
     
    
