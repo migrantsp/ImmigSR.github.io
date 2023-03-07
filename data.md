@@ -3,16 +3,14 @@ layout: default
 title: ImmigSP Data
 ---
 <p style="text-align: center;">
-<h2> MigSP Data </h2>
+<h2> ImmigSP Data </h2>
+</p>
 
 <hr width="60%" 
     color="#8fbc8f"
-        size="40" 
+        size="100" 
         align="center">
 
-
-
-</p>
 
 When using the data, please reference the following publications 
 
