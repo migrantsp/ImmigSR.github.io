@@ -8,7 +8,7 @@ title: ImmigSP Data
 
 <hr width="60%" 
     color="#8fbc8f"
-        size="100" 
+        size="20px" 
         align="center">
 
 
@@ -24,7 +24,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 <hr width="100%" 
     color="#8fbc8f"
-        size="20" 
+        size="10px" 
         align="center">
     
    
