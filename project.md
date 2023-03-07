@@ -1,15 +1,19 @@
 ---
 layout: project
-title: Migrant Social Protection
+title: Conceptualization and Methodology
 
 kramdown:
   input: GFM
 ---
 
 
-<p style="text-align:center">
-<h2> Migrant Social Protection </h2>
+<p align="center">
+<h2> Conceptualization and Methodology </h2>
 </p>
+<hr width="60%" 
+    color="#8fbc8f"
+        size="20" 
+        align="center">
 
 
 
