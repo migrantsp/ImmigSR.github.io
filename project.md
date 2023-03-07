@@ -17,7 +17,6 @@ kramdown:
 
 
   
-<img width='600' height='500' align="center" src="/assets/img/immigrant welfare rights.png" alt="">
 
 #### Immigrant Welfare Rights
 
