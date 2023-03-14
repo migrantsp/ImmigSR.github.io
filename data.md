@@ -8,7 +8,7 @@ title: ImmigSP Data
 
 <hr width="60%"
     color="#8fbc8f"
-        high="8px" 
+        high="4px" 
         align="center">
         
 
@@ -25,7 +25,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 <hr width="100%" 
     color="#8fbc8f"
-        size="8px" 
+        size="4px" 
         align="center">
     
    
@@ -48,7 +48,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
   background-color: #8fbc8f;
 }
     </style>
-<!-- Auto width -->
+
 
 <a href="/migrantsp.github.io/_data/MigSP_version_1.0._public.csv" download>
 <button class="btn" style="width:30%"><i class="fa fa-download"></i> .csv </button>
@@ -64,7 +64,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 <hr width="100%" 
     color="#8fbc8f"
-        size="8px" 
+        size="4px" 
         align="center">
        
  <h3> Technical Report </h3>
