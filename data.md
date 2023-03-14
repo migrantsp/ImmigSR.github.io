@@ -37,20 +37,23 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 <style>
 .btn {
   background-color:;
-  border: yes;
+  border: 2px solid ##8fbc8f;
+    border-radius: 12px;
   color: black;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;}
     /* Darker background on mouse-over */
 .btn:hover {
-  background-color: Green;
+  background-color: #8fbc8f;
 }
     </style>
 <!-- Auto width -->
 
+<p style="text-align: center;">
 <a href="/migrantsp.github.io/_data/smell-my-city-website-master.zip" download>
 <button class="btn"><i class="fa fa-download"></i> .zip </button>
+    </p>
 
 
 <a href="/migrantsp.github.io/_data/smell-my-city-website-master.zip" download> Download File Test</a> 
