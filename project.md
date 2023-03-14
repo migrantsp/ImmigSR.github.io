@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: base
 title: Conceptualization and Methodology
 
 kramdown:
