@@ -8,7 +8,7 @@ kramdown:
 
 
 <p align="center">
-<h2> Conceptualization and Methodology </h2>
+<h1> Conceptualization and Methodology </h1>
 </p>
 <hr width="60%" 
     color="#8fbc8f"
