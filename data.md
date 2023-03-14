@@ -37,7 +37,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 <style>
 .btn {
   background-color:;
-  border: 2px solid ##8fbc8f;
+  border: 2px solid #8fbc8f;
     border-radius: 12px;
   color: black;
   padding: 12px 30px;
