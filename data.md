@@ -8,7 +8,7 @@ title: ImmigSP Data
 
 <hr width="60%"
     color="#8fbc8f"
-        high="30px" 
+        high="8px" 
         align="center">
         
 
@@ -25,7 +25,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 <hr width="100%" 
     color="#8fbc8f"
-        size="10px" 
+        size="8px" 
         align="center">
     
    
@@ -62,15 +62,10 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 <button class="btn" style="width:30%"><i class="fa fa-download"></i> .rds </button>
              
 
-<style>
-      hr {
-        width: 100%;
-        height: 15px;
-        margin-left: auto;
-        margin-right: auto;
-        background-color: #8fbc8f;
-      }
-    </style>
+<hr width="100%" 
+    color="#8fbc8f"
+        size="8px" 
+        align="center">
        
  <h3> Technical Report </h3>
        
@@ -82,7 +77,6 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     width="100%"
 ></iframe>
 
-        <embed src="migrantsp.github.io/_data/Technical_Report_Version2021.pdf" width="500px" height="1200px" />
         
 <p>This technical report describes the raw and scored variables in the dataset, provides an overview of the missing types, and introduces the filters applied.</p>
         
