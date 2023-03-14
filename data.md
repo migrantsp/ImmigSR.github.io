@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: download
 title: ImmigSP Data
 ---
 <p style="text-align: center;">
