@@ -37,6 +37,13 @@ p { front-family:'sans-serif';
     line-height: 1.4em;
     color: #333;
 }
+
+hr { 
+<hr width="100%" 
+    color="#8fbc8f"
+        size="4px" 
+    align="center">
+}
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
