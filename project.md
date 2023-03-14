@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: Conceptualization and Methodology
 
 kramdown:
