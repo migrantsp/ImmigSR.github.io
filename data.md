@@ -3,7 +3,7 @@ layout: default
 title: ImmigSP Data
 ---
 <p style="text-align: center;">
-<h2> ImmigSP Data </h2>
+<h1> ImmigSP Data </h1>
 </p>
 
 <hr width="60%"
@@ -30,7 +30,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     
    
 
-<h3> Download Links </h3>
+<h2> Download Links </h2>
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -67,7 +67,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
         size="4px" 
         align="center">
        
- <h3> Technical Report </h3>
+ <h2> Technical Report </h2>
        
         <iframe
     src="migrantsp.github.io/_data/Technical_Report_Version2021.pdf"
