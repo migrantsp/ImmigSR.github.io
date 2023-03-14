@@ -50,20 +50,17 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     </style>
 <!-- Auto width -->
 
-<p style="text-align: center;">
-<a href="/migrantsp.github.io/_data/smell-my-city-website-master.zip" download>
-<button class="btn"><i class="fa fa-download"></i> .zip </button>
-    </p>
+<p style="align: center;">
+<a href="/migrantsp.github.io/_data/MigSP_version_1.0._public.csv" download>
+<button class="btn" style="width:30%"><i class="fa fa-download"></i> .csv </button>
+    
+    <a href="/migrantsp.github.io/_data/MigSP_version_1.0._public.dta" download>
+<button class="btn" style="width:30%"><i class="fa fa-download"></i> .dta </button>
+    
+    
+    <a href="/migrantsp.github.io/_data/MigSP_version_1.0._public.rds" download>
+<button class="btn" style="width:30%"><i class="fa fa-download"></i> .rds </button>
 
-
-<a href="/migrantsp.github.io/_data/smell-my-city-website-master.zip" download> Download File Test</a> 
-
-<a href="/assets/smell-my-city-website-master.zip">Download File Test 2</a>
-
-<a href="/assets/Reader_Kritische Wohnungsforschung_sd.pdf">Download File Test 3</a>
-
-    Home
-    Downloa
-
+        </p>
 
 
