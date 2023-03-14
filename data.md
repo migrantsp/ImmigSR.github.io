@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout: base
 title: ImmigSP Data
 ---
 <p style="text-align: center;">
