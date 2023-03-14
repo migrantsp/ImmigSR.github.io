@@ -63,4 +63,19 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
         </p>
 
-
+<style>
+      hr {
+        width: 100%;
+        height: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: #8fbc8f;
+      }
+    </style>
+       
+        <h2> Technical Report </h2>
+        
+        <embed src="migrantsp.github.io/_data/Technical_Report_Version2021.pdf" width="80px" height="160px" />
+        
+        This technical report describes the raw and scored variables in the dataset, provides an overview of the missing types, and introduces the filters applied.
+        
