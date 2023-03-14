@@ -12,7 +12,7 @@ kramdown:
 </p>
 <hr width="60%" 
     color="#8fbc8f"
-        size="60px" 
+        size="8px" 
         align="center">
 
 
@@ -28,7 +28,7 @@ At the heart of our conceptualization lies the argument that the term "immigrant
   
 <hr width="100%" 
     color="#8fbc8f"
-        size="20px" 
+        size="4px" 
         align="center">
         
 #### Methodology 
@@ -38,7 +38,7 @@ MigSP builds on a methodology and set of questions that was developed in the rea
 
 <hr width="100%" 
     color="#8fbc8f"
-        size="20px" 
+        size="4px" 
         align="center">
   
 #### Next Steps
