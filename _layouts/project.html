@@ -1,28 +1,7 @@
 ---
-title: Project
-layout: base
-bodyClass: "page-project"
+layout: page
 ---
+<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/assets/css/beautifuljekyll.css">
 
-
-<div class="intro-header"></div>
-
-<div role="main" class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
-  {% if page.before-content %}
-    <div class="before-content">
-      {% for file in page.before-content %}
-        {% include {{ file }} %}
-      {% endfor %}
-    </div>
-  {% endif %}
-
-  {{ content }}
-
-  {% if page.after-content %}
-    <div class="after-content">
-      {% for file in page.after-content %}
-        {% include {{ file }} %}
-      {% endfor %}
-    </div>
-  {% endif %}
-</div>
+{{ content }}
