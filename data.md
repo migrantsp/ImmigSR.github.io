@@ -8,7 +8,7 @@ title: ImmigSP Data
 
 <hr width="60%"
     color="#8fbc8f"
-        high="4px" 
+        high="8px" 
         align="center">
         
 
