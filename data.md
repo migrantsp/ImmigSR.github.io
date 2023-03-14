@@ -50,7 +50,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     </style>
 <!-- Auto width -->
 
-<p style="align: center;">
+<div style="text-align: center;">
 <a href="/migrantsp.github.io/_data/MigSP_version_1.0._public.csv" download>
 <button class="btn" style="width:30%"><i class="fa fa-download"></i> .csv </button>
     
@@ -60,8 +60,8 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     
     <a href="/migrantsp.github.io/_data/MigSP_version_1.0._public.rds" download>
 <button class="btn" style="width:30%"><i class="fa fa-download"></i> .rds </button>
-
-        </p>
+        </div>
+       
 
 <style>
       hr {
