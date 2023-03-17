@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: home
 title: Publications
 ---
-
-<h2> Publications </h2>
   
 Harris, Eloisa, and Friederike Römer. 2022. ‘Contextual Welfare Chauvinism: Left‐wing Governments and Immigrant Welfare Rights in Western Europe’. European Journal of Political Research: 1475-6765.12556. 
 
