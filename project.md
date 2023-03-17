@@ -6,11 +6,6 @@ kramdown:
   input: GFM
 ---
 
-
-<p align="center">
-<h1> Conceptualization and Methodology </h1>
-</p>
-
 <hr width="60%" 
     color="#8fbc8f"
         size="8px" 
