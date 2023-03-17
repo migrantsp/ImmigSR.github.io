@@ -3,12 +3,12 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Oswald';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li, footer ul li {Helvetica
     display: inline;
     margin-right: 20px;
 }
@@ -29,11 +29,12 @@ h2 {
     font-family:'Oswald';
 }
 h3 {
-    font-size: 18px;
-    font-family:'sans-serif';
+    font-size: 38px;
+    font-family:'Oswald';
+    color: ##8fbc8f;
 }
 p { front-family:'sans-serif';
-    font-size: 11px;
+    font-size: 10px;
     line-height: 1.4em;
     color: #333;
 }
