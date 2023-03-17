@@ -30,7 +30,7 @@ p { front-family:'sans-serif';
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Oswald';'sans-serif';
   font-weight: 800;
-  line-height: 1.1;
+  line-height: 2em;
 }
 h1 {
     font-size: 48px;
@@ -42,7 +42,7 @@ h2 {
     font-family:'Oswald';
 }
 h3 {
-    font-size: 38px;
+    font-size: 28px;
     font-family:'sans-serif';
     color: #8fbc8f;
 }
