@@ -2,10 +2,6 @@
 layout: home
 title: ImmigSP Data
 ---
-<p style="text-align: center;">
-<h1> ImmigSP Data </h1>
-</p>
-
 <hr width="60%"
     color="#8fbc8f"
         high="8px" 
@@ -68,16 +64,16 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
         align="center">
        
 <h2> Technical Report </h2>
-       
-    <a target="_blank" href="/_data/Technical_Report_Version2021.pdf" title="Technical Report">
+ 
+    <embed src="/_data/Technical_Report_Version2021.pdf" width="800px" height="2100px" />
     
-        <iframe
-    src="migrantsp.github.io/_data/Technical_Report_Version2021.pdf"
+    <iframe src="migrantsp.github.io/_data/Technical_Report_Version2021.pdf" height="200" width="300"></iframe>
+
+    <iframe src="migrantsp.github.io/_data/Technical_Report_Version2021.pdf"
     frameBorder="0"
     scrolling="auto"
     height="100%"
-    width="100%"
-></iframe>
+    width="100%"></iframe>
 
         
 <p>This technical report describes the raw and scored variables in the dataset, provides an overview of the missing types, and introduces the filters applied.</p>
