@@ -3,8 +3,8 @@ layout: home
 title: ImmigSP Data
 ---
 <hr width="60%"
-    color="#8fbc8f"
-        high="8px" 
+    color="#228b22"
+        high="10px" 
         align="center">
         
 
@@ -20,7 +20,7 @@ References to the codebook should be made as:
 Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Technical report (SFB 1342 Technical Paper Series). Version 2022. SFB 1342. https://www.socialpolicydynamics.de/f/fcedb0990c.pdf
 
 <hr width="100%" 
-    color="#8fbc8f"
+    color="#228b22"
         size="4px" 
         align="center">
 <pre> 
@@ -32,7 +32,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 <style>
 .btn {
   background-color:;
-  border: 2px solid #8fbc8f;
+  border: 2px solid #228b22;
     border-radius: 12px;
   color: black;
   padding: 12px 30px;
@@ -40,16 +40,16 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
   font-size: 20px;}
     /* Darker background on mouse-over */
 .btn:hover {
-  background-color: #8fbc8f;
+  background-color: #228b22;
 }
     </style>
 
 
-<a href="migrantsp.github.io/_data/MigSP_version_1.0._public.csv" download>
+<a href="/_data/MigSP_version_1.0._public.csv" download>
 <button class="btn" style="width:30%"><i class="fa fa-download"></i> .csv </button>
             
     
-<a href="migrantsp.github.io/_data/MigSP_version_1.0._public.dta" download>
+<a href="/migrantsp.github.io/_data/MigSP_version_1.0._public.dta" download>
 <button class="btn" style="width:30%"><i class="fa fa-download"></i> .dta </button>
     
     
@@ -58,7 +58,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
              
 
     <hr width="100%" 
-    color="#8fbc8f"
+    color="#228b22"
         size="4px" 
         align="center">
         
