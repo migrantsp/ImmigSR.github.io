@@ -23,10 +23,9 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     color="#8fbc8f"
         size="4px" 
         align="center">
-    
-   
-
+<pre> 
 <h2> Download Links </h2>
+
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -62,8 +61,12 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     color="#8fbc8f"
         size="4px" 
         align="center">
+        
+        
        
 <h2> Technical Report </h2>
+
+
  
     <embed src="/_data/Technical_Report_Version2021.pdf" width="800px" height="2100px" />
     
@@ -77,4 +80,5 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
         
 <p>This technical report describes the raw and scored variables in the dataset, provides an overview of the missing types, and introduces the filters applied.</p>
-        
+
+</pre>
