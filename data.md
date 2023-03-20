@@ -46,11 +46,11 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     </style>
 
 
-<a class="btn" style="width: 30%;" href="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/MigSP_version_1.0._public.csv" download><i class="fa fa-download"></i> .csv</a>
+<a class="btn" style="width: 30%;" href="/_data/MigSP_version_1.0._public.csv" download><i class="fa fa-download"></i> .csv</a>
 
-<a class="btn" style="width: 30%;" href="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/MigSP_version_1.0._public.dta" download><i class="fa fa-download"></i> .dta</a>
+<a class="btn" style="width: 30%;" href="/_data/MigSP_version_1.0._public.dta" download><i class="fa fa-download"></i> .dta</a>
 
-<a class="btn" style="width: 30%;" href="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/MigSP_version_1.0._public.rds" download><i class="fa fa-download"></i> .rds</a>
+<a class="btn" style="width: 30%;" href="/_data/MigSP_version_1.0._public.rds" download><i class="fa fa-download"></i> .rds</a>
              
 
     <hr width="100%" 
@@ -64,11 +64,11 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 
  
-    <embed src="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/Technical_Report_Version2021.pdf" width="800px" height="2100px" />
+    <embed src="/_data/Technical_Report_Version2021.pdf" width="800px" height="2100px" />
     
-    <iframe src="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/Technical_Report_Version2021.pdf" height="200" width="300"></iframe>
+    <iframe src="/_data/Technical_Report_Version2021.pdf" height="200" width="300"></iframe>
 
-    <iframe src="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/Technical_Report_Version2021.pdf"
+    <iframe src="/_data/Technical_Report_Version2021.pdf"
     frameBorder="0"
     scrolling="auto"
     height="100%"
