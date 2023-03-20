@@ -68,11 +68,11 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 
  
-    <embed src="/_data/Technical_Report_Version2021.pdf" width="800px" height="2100px" />
+    <embed src="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/Technical_Report_Version2021.pdf" width="800px" height="2100px" />
     
-    <iframe src="migrantsp.github.io/_data/Technical_Report_Version2021.pdf" height="200" width="300"></iframe>
+    <iframe src="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/Technical_Report_Version2021.pdf" height="200" width="300"></iframe>
 
-    <iframe src="migrantsp.github.io/_data/Technical_Report_Version2021.pdf"
+    <iframe src="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/Technical_Report_Version2021.pdf"
     frameBorder="0"
     scrolling="auto"
     height="100%"
