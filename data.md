@@ -45,15 +45,15 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     </style>
 
 
-<a href="/_data/MigSP_version_1.0._public.csv" download>
+<a href="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/MigSP_version_1.0._public.csv" download>
 <button class="btn" style="width:30%"><i class="fa fa-download"></i> .csv </button>
             
     
-<a href="/migrantsp.github.io/_data/MigSP_version_1.0._public.dta" download>
+<a href="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/MigSP_version_1.0._public.dta" download>
 <button class="btn" style="width:30%"><i class="fa fa-download"></i> .dta </button>
     
     
-<a href="migrantsp.github.io/_data/MigSP_version_1.0._public.rds" download>
+<a href="https://github.com/migrantsp/migrantsp.github.io/blob/master/_data/MigSP_version_1.0._public.rds" download>
 <button class="btn" style="width:30%"><i class="fa fa-download"></i> .rds </button>
              
 
