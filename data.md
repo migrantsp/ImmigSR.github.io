@@ -2,7 +2,7 @@
 layout: home
 title: ImmigSP Data
 ---
-<hr width="60%" color="#228b22" style="height: 10px;" align="center">
+<hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
         
 
 
