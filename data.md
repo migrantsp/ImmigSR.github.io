@@ -41,7 +41,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     </style>
 
 <br /><br />
-<a class="btn";"center" style="width: 30%;" href="/files/MigSP_version_1.0_public.csv" download><i class="fa fa-download"></i> .csv</a>
+<a class="btn;center" style="width: 30%;" href="/files/MigSP_version_1.0_public.csv" download><i class="fa fa-download"></i> .csv</a>
 
 <a class="btn" style="width: 30%;" href="/files/MigSP_version_1.0_public.dta" download><i class="fa fa-download"></i> .dta</a>
 
@@ -56,7 +56,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 <p>This technical report describes the raw and scored variables in the dataset, provides an overview of the missing types, and introduces the filters applied.</p>
 <br /><br />        
         
-<embed src="/files/Technical_Report_Version2021.pdf" width="60%" height="100%" />
+<embed src="/files/Technical_Report_Version2021.pdf" width="80%" height="1600px" />
   
 
 </div>
