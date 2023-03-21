@@ -3,13 +3,6 @@ layout: home
 title: ImmigSP Data
 ---
 <hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
-div {
-  background-color:;
-  width: 100%;
-  border: 4px solid green;
-  padding: 20px;
-  margin: 10px;
-}
 
 <br /><br />
 When using the data, please reference the following publications 
@@ -20,7 +13,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 References to the codebook should be made as:
 <p style="border-width:4px; border-style:solid; border-color:#228b22; padding: 2em;">
-<div> Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Technical report (SFB 1342 Technical Paper Series). Version 2022. SFB 1342. https://www.socialpolicydynamics.de/f/fcedb0990c.pdf </div></p>
+Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Technical report (SFB 1342 Technical Paper Series). Version 2022. SFB 1342. https://www.socialpolicydynamics.de/f/fcedb0990c.pdf </p>
 
 <br /><br />
 <hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
