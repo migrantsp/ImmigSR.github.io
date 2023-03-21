@@ -33,7 +33,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1em;
 }
 h1 {
-    font-size: 48px;
+    font-size: 38px;
     font-family:'Oswald';
     text-align:center;
 }
@@ -86,7 +86,7 @@ hr.small {
 
 /* fix in-page anchors to not be behind fixed header */
 :target:before {
-  content: "";
+  content: "test";
   display: block;
   height: 3.125rem; /* navbar height */
   margin: -3.125rem 0 0;
