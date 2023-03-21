@@ -8,11 +8,11 @@ title: ImmigSP Data
 When using the data, please reference the following publications 
 
 References to the data should be made as:
-<p style="border-width:2px; border-style:solid; border-color:#228b22; padding: 2em;">
+<p style="border-width:1px; border-style:solid; border-color:#228b22; padding: 2em;">
 Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Version 2022. SFB 1342. ADD LINK </p>
 
 References to the codebook should be made as:
-<p style="border-width:2px; border-style:solid; border-color:#228b22; padding: 2em;">
+<p style="border-width:1px; border-style:solid; border-color:#228b22; padding: 2em;">
 Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Technical report (SFB 1342 Technical Paper Series). Version 2022. SFB 1342. https://www.socialpolicydynamics.de/f/fcedb0990c.pdf </p>
 
 <br /><br />
@@ -41,7 +41,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
     </style>
 
 <br /><br />
-<a class="btn" style="width: 30%;" href="/files/MigSP_version_1.0_public.csv" download><i class="fa fa-download"></i> .csv</a>
+<a class="btn";"center" style="width: 30%;" href="/files/MigSP_version_1.0_public.csv" download><i class="fa fa-download"></i> .csv</a>
 
 <a class="btn" style="width: 30%;" href="/files/MigSP_version_1.0_public.dta" download><i class="fa fa-download"></i> .dta</a>
 
