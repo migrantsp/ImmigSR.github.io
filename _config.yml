@@ -10,6 +10,7 @@
 ############################
 
 # Name of website
+<img src="pic_trulli.jpg" alt="Italian Trulli">
 title: Immigrant Social Rights Project
 
 # Your name to show in the footer
@@ -41,7 +42,9 @@ round-avatar: false
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/logo.png" 
+title-img: "/assets/img/logo.png"; 
+alt:"Immigrant Social Rights Protection"
+title:"Immigrant Social Rights Protection"
 
 
 #####################################
