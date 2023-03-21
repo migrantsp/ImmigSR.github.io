@@ -15,12 +15,12 @@ div {
 When using the data, please reference the following publications 
 
 References to the data should be made as:
-
-<div>Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Version 2022. SFB 1342. ADD LINK </div>
+<p style="border-width:4px; border-style:solid; border-color:#228b22; padding: 2em;">
+Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Version 2022. SFB 1342. ADD LINK </p>
 
 References to the codebook should be made as:
-
-<div> Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Technical report (SFB 1342 Technical Paper Series). Version 2022. SFB 1342. https://www.socialpolicydynamics.de/f/fcedb0990c.pdf </div>
+<p style="border-width:4px; border-style:solid; border-color:#228b22; padding: 2em;">
+<div> Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Technical report (SFB 1342 Technical Paper Series). Version 2022. SFB 1342. https://www.socialpolicydynamics.de/f/fcedb0990c.pdf </div></p>
 
 <br /><br />
 <hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
@@ -52,18 +52,17 @@ References to the codebook should be made as:
 <a class="btn" style="width: 30%;" href="/files/MigSP_version_1.0_public.dta" download><i class="fa fa-download"></i> .dta</a>
 
 <a class="btn" style="width: 30%;" href="/files/MigSP_version_1.0_public.rds" download><i class="fa fa-download"></i> .rds</a>
-      <br /><br />       
+      <br /><br /><br /><br />     
 
 <hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
         
-    
+ <br /><br />   
 <h2> Technical Report </h2>
-     <br /><br />   
+     <br /><br /><br /><br />   
 <p>This technical report describes the raw and scored variables in the dataset, provides an overview of the missing types, and introduces the filters applied.</p>
+<br /><br />        
         
-        
-<embed src="/files/Technical_Report_Version2021.pdf" width="60%" height="60%" />
+<embed src="/files/Technical_Report_Version2021.pdf" width="60%" height="100%" />
   
-<p>This technical report describes the raw and scored variables in the dataset, provides an overview of the missing types, and introduces the filters applied.</p>
 
 </div>
