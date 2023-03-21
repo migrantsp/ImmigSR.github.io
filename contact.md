@@ -10,9 +10,9 @@ title: Contact
 
 Contact Information
 
-CRC 1342 "Global Dynamics of Social Policy"
-Project B04 "Causes of Inclusion and Exclusion: Immigrant Welfare Rights in Global Comparison"
-Mary-Somerville-Straße 7
+<p>CRC 1342 "Global Dynamics of Social Policy"</p>
+Project B04 "Causes of Inclusion and Exclusion: Immigrant Welfare Rights in Global Comparison"<br>
+Mary-Somerville-Straße 7<br>
 28359 Bremen  
 
 migrant-sp@uni-bremen.de
@@ -20,7 +20,7 @@ migrant-sp@uni-bremen.de
 <br>
 
 <h3> Imprint </h3>
-
+<br><br>
 The CRC 1342 is an institute of the University of Bremen. The University of Bremen is a corporation under public law and is represented by the President Prof. Dr. Jutta Günther.
 Supervisory authority: The Free Hanseatic City of Bremen, The Department of Education and Science, Rembertiring 8-12, 28195 Bremen.
 VAT identification number pursuant to Article § 27 a UStG Umsatzsteuer-Nr.: DE 811 245 070
