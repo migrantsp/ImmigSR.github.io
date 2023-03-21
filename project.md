@@ -15,7 +15,7 @@ The Migrant Social Protection Dataset provides data on immigrant welfare rights 
 
 At the heart of our conceptualization lies the argument that the term "immigrant welfare rights" encompasses a variety of direct and indirect restrictions for different groups of immigrants across an array of different benefit and services. Immigrant welfare rights therefore are a multi-dimensional construct: (1) First, rights differ by the legal category of immigrant that is considered. (2) Second, rights differ across welfare benefit schemes. (3) Third, restrictions in immigrant welfare rights might occur through direct or indirect measures. 
 <br><br>
-<img width='550' height='400' align="center" src="/assets/img/immigrant welfare rights.png" alt="">
+<img width='500' height='350' align="center" src="/assets/img/immigrant welfare rights.png" alt="">
 <br><br>
 <hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
 <br />      
@@ -25,7 +25,7 @@ At the heart of our conceptualization lies the argument that the term "immigrant
 MigSP builds on a methodology and set of questions that was developed in the realm of the 
 <a href="[url](http://www.impic-project.eu/)">Immigration Policies in Comparison (IMPIC) project</a>. It uses a standardized questionnaire and works with legal experts to extract qualitative information from legal texts. The experts are sent an online questionnaire which contains both closed and open questions. The questionnaire is designed in such a way as to minimize the influence of subjective evaluations of restrictions of immigrant welfare rights. The qualitative data is then scored independently by a team of researchers to produce numerical country-year indicators.
 <br />
-<br>
+<br><br>
 <hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
 <br>  
 <h3> Next steps </h3> 
