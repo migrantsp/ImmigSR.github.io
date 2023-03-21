@@ -2,7 +2,8 @@
 layout: home
 title: Publications
 ---
-  
+<hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
+<br><br>
 Harris, Eloisa, and Friederike Römer. 2022. ‘Contextual Welfare Chauvinism: Left‐wing Governments and Immigrant Welfare Rights in Western Europe’. European Journal of Political Research: 1475-6765.12556. 
 
 Henninger, Jakob, and Friederike Römer. 2021. ‘Choose Your Battles: How Civil Society Organisations Choose Goals and Activities to Fight for Immigrant Welfare Rights in Malaysia and Argentina’. Social Policy & Administration 55(6): 1112–28.
