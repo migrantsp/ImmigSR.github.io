@@ -16,7 +16,7 @@ References to the codebook should be made as:
 Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Technical report (SFB 1342 Technical Paper Series). Version 2022. SFB 1342. https://www.socialpolicydynamics.de/f/fcedb0990c.pdf </p>
 
 <br /><br />
-<hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
+<hr width="100%" style="height: 3px; background-color: #228b22; border-radius: 0;" align="center">
 <br /><br />
 <div> 
 <h2> Download Links </h2>
@@ -31,8 +31,8 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
   color: black;
   padding: 12px 30px;
   cursor: pointer;
-  font-size: 20px;}
-        align: center;
+  font-size: 20px;
+        align: center;}
     /* Darker background on mouse-over */
 .btn:hover {
   background-color: #228b22;
@@ -48,7 +48,7 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 <a class="btn" style="width: 30%;" href="/files/MigSP_version_1.0_public.rds" download><i class="fa fa-download"></i> .rds</a>
       <br /><br /><br /><br />     
 
-<hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
+<hr width="100%" style="height: 3px; background-color: #228b22; border-radius: 0;" align="center">
         
  <br /><br />   
 <h2> Technical Report </h2>
