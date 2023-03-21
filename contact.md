@@ -10,7 +10,7 @@ title: Contact
 
 Contact Information
 
-<p>CRC 1342 "Global Dynamics of Social Policy"</p>
+CRC 1342 "Global Dynamics of Social Policy"<br>
 Project B04 "Causes of Inclusion and Exclusion: Immigrant Welfare Rights in Global Comparison"<br>
 Mary-Somerville-Straße 7<br>
 28359 Bremen  
