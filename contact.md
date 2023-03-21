@@ -26,5 +26,5 @@ Supervisory authority: The Free Hanseatic City of Bremen, The Department of Educ
 VAT identification number pursuant to Article § 27 a UStG Umsatzsteuer-Nr.: DE 811 245 070
 Responsible for the content of this website according to § 10 paragraph 3 MDStV: the director of the CRC 1342 Prof. Dr. Herbert Obinger (for contact information see above).
 
-Director: Prof. Dr. Herbert Obinger
+Director: Prof. Dr. Herbert Obinger <br>
 E-Mail: herbert.obinger@uni-bremen.de
