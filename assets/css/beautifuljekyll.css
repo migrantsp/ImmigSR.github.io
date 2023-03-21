@@ -55,13 +55,7 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 
-hr { 
-width:100%; 
-    background-color:#228b22;
-        hight: 4px; 
-  border-radius: 0;
-    align:center;
-}
+
 a {
   color: {{ site.link-col | default: "#008AFF" }};
 }
