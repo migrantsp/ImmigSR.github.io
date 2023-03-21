@@ -14,11 +14,11 @@ kramdown:
 The Migrant Social Protection Dataset provides data on immigrant welfare rights defined as "the legal rights of immigrants to access the array of benefits and services that the welfare state in the country of residence offers to its citizens" (REF Launch Paper). 
 
 At the heart of our conceptualization lies the argument that the term "immigrant welfare rights" encompasses a variety of direct and indirect restrictions for different groups of immigrants across an array of different benefit and services. Immigrant welfare rights therefore are a multi-dimensional construct: (1) First, rights differ by the legal category of immigrant that is considered. (2) Second, rights differ across welfare benefit schemes. (3) Third, restrictions in immigrant welfare rights might occur through direct or indirect measures. 
-<br>
+<br><br>
 <img width='600' height='500' align="center" src="/assets/img/immigrant welfare rights.png" alt="">
-<br>
+<br><br>
 <hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
-<br>        
+<br />      
 <h3> Methodology </h3>  
 <br>  
    
