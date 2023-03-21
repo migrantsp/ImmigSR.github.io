@@ -56,9 +56,10 @@ h1, h2, h3, h4 {
 }
 
 hr { 
-width:60% 
-    color:#8fbc8f;
-        size: 6px; 
+width:100%; 
+    background-color:#228b22;
+        hight: 4px; 
+  border-radius: 0;
     align:center;
 }
 a {
