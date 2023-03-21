@@ -22,7 +22,7 @@ References to the codebook should be made as:
 
 <div> Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Technical report (SFB 1342 Technical Paper Series). Version 2022. SFB 1342. https://www.socialpolicydynamics.de/f/fcedb0990c.pdf </div>
 
-
+<br /><br />
 <hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
 
 <div> 
