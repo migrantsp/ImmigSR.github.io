@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Project<br> Conceptualization <br> and Methodology
+title: Project Conceptualization <br> and Methodology
 
 kramdown:
   input: GFM
