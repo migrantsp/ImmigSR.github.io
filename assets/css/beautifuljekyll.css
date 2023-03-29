@@ -418,7 +418,7 @@ footer {
   {% endif %}
 }
 
-footer p.text-muted {
+footer p.text {
   color: {{ site.footer-text-col | default: "#777777" }} !important;
 }
 
