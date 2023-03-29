@@ -5,7 +5,6 @@ title: ImmigSP Data
 <hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
 
 <br /><br />
-When using the data, please reference the following publications 
 
 References to the data should be made as:
 <p style="border-width:1px; border-style:solid; border-color:#228b22; padding: 2em;">
