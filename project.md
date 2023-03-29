@@ -17,7 +17,6 @@ At the heart of our conceptualization lies the argument that the term "immigrant
 <br><br>
 <img width='500' height='350' class="center" src="/assets/img/immigrant welfare rights.png" alt="">
 
-<img src="/assets/img/immigrant welfare rights.png" alt="" class="center" style="align:center;width:500px;height:350px;">
 <br><br>
 
 <br />      
