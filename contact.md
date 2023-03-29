@@ -8,7 +8,7 @@ title: Contact
 <h3> We look forward to hearing from you!</h3>
 <br><br>
 
-Contact Information
+**Contact Information
 
 CRC 1342 "Global Dynamics of Social Policy"<br>
 Project B04 "Causes of Inclusion and Exclusion: Immigrant Welfare Rights in Global Comparison"<br>
