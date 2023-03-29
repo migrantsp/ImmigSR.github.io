@@ -50,9 +50,9 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 
 <hr width="100%" style="height: 3px; background-color: #228b22; border-radius: 0;" align="center">
         
- <br /><br />   
+ <br />  
 <h2> Technical Report </h2>
-     <br /><br /><br /><br />   
+     <br /><br />  
 <p>This technical report describes the raw and scored variables in the dataset, provides an overview of the missing types, and introduces the filters applied.</p>
 <br /><br />        
         
