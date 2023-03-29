@@ -62,7 +62,7 @@ h1, h2, h3, h4 {
 
 .strokeme {
   color:;
-  background-color:#cfcfc4;
+  background-color:#778899;
   text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 a {
@@ -147,7 +147,7 @@ img {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   .strokeme {
   color:;
-  background-color:#cfcfc4;
+  background-color:#778899;
   text-shadow: text-shadow: -0.5px -0.5px 0 #000, 0.5px -0.5px 0 #000, -0.5px 0.5px 0 #000, 0.5px 0.5px 0 #000;
 }
   
