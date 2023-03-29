@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Project: Conceptualization <br> and Methodology
+title: Project<br> Conceptualization <br> and Methodology
 
 kramdown:
   input: GFM
@@ -14,10 +14,10 @@ kramdown:
 The Migrant Social Protection Dataset provides data on immigrant welfare rights defined as "the legal rights of immigrants to access the array of benefits and services that the welfare state in the country of residence offers to its citizens" (REF Launch Paper). 
 
 At the heart of our conceptualization lies the argument that the term "immigrant welfare rights" encompasses a variety of direct and indirect restrictions for different groups of immigrants across an array of different benefit and services. Immigrant welfare rights therefore are a multi-dimensional construct: (1) First, rights differ by the legal category of immigrant that is considered. (2) Second, rights differ across welfare benefit schemes. (3) Third, restrictions in immigrant welfare rights might occur through direct or indirect measures. 
-<br><br>
+<br><br>fo
 <img width='500' height='350' align="center" src="/assets/img/immigrant welfare rights.png" alt="">
 
-<img src="/assets/img/immigrant welfare rights.png" alt="" class="pull-center" style="align:center;width:350px;height:500px;">
+<img src="/assets/img/immigrant welfare rights.png" alt="" class="pull-center" style="align:center;width:500px;height:500px;">
 <br><br>
 
 <br />      
