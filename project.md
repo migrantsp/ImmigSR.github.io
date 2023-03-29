@@ -17,7 +17,7 @@ At the heart of our conceptualization lies the argument that the term "immigrant
 <br><br>
 <img width='500' height='350' align="center" src="/assets/img/immigrant welfare rights.png" alt="">
 <br><br>
-<hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
+
 <br />      
 <h3> Methodology </h3>  
 <br>  
@@ -26,7 +26,7 @@ MigSP builds on a methodology and set of questions that was developed in the rea
 <a href="[url](http://www.impic-project.eu/)">Immigration Policies in Comparison (IMPIC) project</a>. It uses a standardized questionnaire and works with legal experts to extract qualitative information from legal texts. The experts are sent an online questionnaire which contains both closed and open questions. The questionnaire is designed in such a way as to minimize the influence of subjective evaluations of restrictions of immigrant welfare rights. The qualitative data is then scored independently by a team of researchers to produce numerical country-year indicators.
 <br />
 <br><br>
-<hr width="100%" style="height: 4px; background-color: #228b22; border-radius: 0;" align="center">
+
 <br>  
 <h3> Next steps </h3> 
 
