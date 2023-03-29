@@ -58,7 +58,11 @@ h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
 
-
+.strokeme {
+  color:;
+  background-color:#cfcfc4;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
 a {
   color: {{ site.link-col | default: "#008AFF" }};
 }
@@ -139,6 +143,7 @@ img {
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#DDDDDD" }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
   {% if site.navbar-img %}
     background-image: url({{ site.navbar-img | relative_url }});
     background-attachment: fixed;
