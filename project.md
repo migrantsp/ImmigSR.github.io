@@ -33,5 +33,5 @@ ImmigSR builds on a methodology and set of questions that was developed in the r
 The project aims to further develop the ImmigSR data set with the help of funding by the German Research Foundation (DFG) via the Collaborative Research Centre "Global Dynamics of Social Policy" at the University of Bremen. In addition to social assistance and unemployment insurance, the data set will cover non-contributory child benefits, non-contributory old-age pensions and employment injury insurance in order to gain a more <br><br><br><br>
 
 <p>
-  *formerly Migrant Social Protection (MigSP), renamed in March 2023</p>
+  *formerly Migrant Social Protection (MigSP), renamed 2023</p>
 
