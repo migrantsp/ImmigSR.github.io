@@ -25,7 +25,7 @@ United States
 
 For more information on opt-out and removal options with respect to GitHub, please visit: 
 
-<a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement"> 
+<a href="https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement"> GitHub Privacy Statement </a>
 
 If you are in the European Economic Area, GitHub processes your personal data in accordance with applicable laws, and the processing of personal data about you is subject to European Union data protection law, you have certain rights with respect to that data.
 
