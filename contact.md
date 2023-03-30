@@ -17,7 +17,7 @@ Mary-Somerville-Straße 7<br>
 
 **immigsr@uni-bremen.de**
 
-<br>No personal data is collected on this website.
+<br>
 <br>
 
 <h3> Imprint </h3>
