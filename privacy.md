@@ -15,9 +15,9 @@ IP address, the address of the previously visited website (referrer request head
 
 This is necessary to display the website and ensure stability and security. This corresponds to our legitimate interest within Art. 6 Abs. 1 S. 1 lit. f DSGVO
 
-There is no tracking and we do not have direct access to this data, but receive an anonymous statistical summary. This includes the address of the previously visited page, the frequency of each page viewed and the number of unique visitors. We do not combine this data with other data. 
+There is no tracking and we do not have direct access to this data, but receive an anonymous statistical summary. This includes the address of the previously visited page, the frequency of each page viewed and the number of unique visitors. We do not combine this data with other data. <br>
 We use the following host to make our website available: 
-<br>
+<br><br>
 GitHub Inc. <br>
 88 Colin P Kelly Jr St <br>
 San Francisco, CA 94107 <br>
