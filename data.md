@@ -2,8 +2,7 @@
 layout: home
 title: ImmigSP Data
 ---
-<hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
-
+<hr width="60%" style="height: 5px; background-color: #228b22; border-radius: 2px;" align="center">
 <br /><br />
 
 References to the data should be made as:
