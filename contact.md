@@ -10,17 +10,17 @@ title: Contact
 
 **Contact Information**
 
-Project B04 “Causes of Inclusion and Exclusion: Immigrant Welfare Rights in Global Comparison”
-CRC 1342 “Global Dynamics of Social Policy”
-Mary-Somerville-Straße 7
-28359 Bremen
+Project B04 “Causes of Inclusion and Exclusion: Immigrant Welfare Rights in Global Comparison”<br><br>
+CRC 1342 “Global Dynamics of Social Policy”<br>
+Mary-Somerville-Straße 7<br>
+28359 Bremen<br>
+<br><br>
 
-
-German Centre for Integration and Migration Research (DeZIM)
-Mauerstraße 76
-10117 Berlin
-immigsr@uni-bremen.de
-
+German Centre for Integration and Migration Research (DeZIM)<br>
+Mauerstraße 76<br>
+10117 Berlin<br>
+immigsr@uni-bremen.de<br>
+<br>
 **immigsr@uni-bremen.de**
 
 <br>
