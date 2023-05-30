@@ -3,7 +3,7 @@ layout: home
 title: Contact
 
 ---
-<hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
+<hr width="60%" style="height: 5px; background-color: #228b22; border-radius: 0;" align="center">
 <br><br>
 <h3> We look forward to hearing from you!</h3>
 <br><br>
