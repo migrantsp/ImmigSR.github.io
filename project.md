@@ -21,7 +21,7 @@ At the heart of our conceptualization lies the argument that the term "immigrant
 <br>  
    
 ImmigSR builds on a methodology and set of questions that was developed in the realm of the 
-<a href="http://www.impic-project.eu">Immigration Policies in Comparison (IMPIC) project</a>. It uses a standardized questionnaire and works with legal experts to extract qualitative information from legal texts. The experts are sent an online questionnaire which contains both closed and open questions. The questionnaire is designed in such a way as to minimize the influence of subjective evaluations of restrictions of immigrant welfare rights. The qualitative data is then scored independently by a team of researchers to produce numerical country-year indicators. More information can be found in the <a href="data"> codebook</a>.
+<a href="http://www.impic-project.eu">Immigration Policies in Comparison (IMPIC) project</a>. It uses a standardized questionnaire and works with legal experts to extract qualitative information from legal texts. The experts are sent an online questionnaire which contains both closed and open questions. The questionnaire is designed in such a way as to minimize the influence of subjective evaluations of restrictions of immigrant welfare rights. The qualitative data is then scored independently by a team of researchers to produce numerical country-year indicators. More information can be found in the <a href="https://immigsr.github.io/data/#codebook">codebook</a>.
 <br />
 <br><br>
 
