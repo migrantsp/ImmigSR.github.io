@@ -142,7 +142,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: linear-gradient(to bottom right, #257c00, #2c630c) {{ site.navbar-col | default: "2c630c" }};
+  background-color: {{ site.navbar-col | default: "2c630c" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#383838" }};
   border-radius: 10px;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
