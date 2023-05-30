@@ -19,7 +19,6 @@ Mary-Somerville-Straße 7<br>
 German Centre for Integration and Migration Research (DeZIM)<br>
 Mauerstraße 76<br>
 10117 Berlin<br>
-immigsr@uni-bremen.de<br>
 <br>
 **immigsr@uni-bremen.de**
 
