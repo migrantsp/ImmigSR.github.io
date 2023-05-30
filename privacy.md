@@ -3,9 +3,8 @@ layout: home
 title: Data Privacy
 
 ---
-<br><br>
 <hr style="height: 5px; background-color: #228b22; border-radius: 2px;" width="60%" align="center">
-<br>
+<br><br>
 **The owner of the website does not collect personal information.**
 
 The website is hosted by **GitHub Inc.**
