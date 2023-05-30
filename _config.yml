@@ -20,11 +20,10 @@ author: CRC 1342/B04 - Causes of Inclusion and Exclusion <br>Immigrant Welfare R
 ###############################################
 
 navbar-links:
-  Download Data: "data"
+  Download ImmigSR Data: "data"
   Project: "project"
   About us:
     - Team: "team"
-    - Publications: "publications"
     - Contact: "contact"
   Data Privacy: "privacy"
   CRC 1342: "https://www.socialpolicydynamics.de/en/"
@@ -96,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "Imprint"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
