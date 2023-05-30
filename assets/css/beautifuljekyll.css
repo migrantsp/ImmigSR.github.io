@@ -429,7 +429,7 @@ img {
 footer {
   padding: 1.875rem 0;
   border-top: 4px #228b22 solid;
-  margin-top: 3.125rem;
+  margin-top: 2.825rem;
   font-size: 0.875rem;
   border-radius: 10px;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
@@ -476,7 +476,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   footer {
-    padding: 2.125rem 0;
+    padding: 1.975rem 0;
   }
   footer .footer-links {
     font-size: 1.125rem;
