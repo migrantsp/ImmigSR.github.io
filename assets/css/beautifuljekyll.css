@@ -81,6 +81,26 @@ blockquote p:first-child {
 }
 hr.small {
   max-width: 6.25rem;
+
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+p { margin-bottom: 0.25cm; direction: ltr; line-height: 115%; text-align: left; orphans: 2; widows: 2; background: transparent }a:link { color: #0000ff; text-decoration: underline }
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
@@ -142,7 +162,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: linear-gradient({{ site.navbar-col | default: "2c630c" }});
+  background-color: {{ site.navbar-col | default: "2c630c" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#383838" }};
   border-radius: 10px;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -411,8 +431,9 @@ footer {
   border-top: 4px #228b22 solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
+  border-radius: 10px;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
-  border-bottom: 2px solid {{ site.footer-border-col | default: "#228b22" }};
+  border-bottom: 2px solid {{ site.footer-border-col | default: "#383838" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: fixed;
