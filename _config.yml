@@ -13,7 +13,7 @@
 title: Immigrant Social Rights Project
 
 # Your name to show in the footer
-author: CRC 1342/B04
+author: CRC 1342/B04 - Causes of Inclusion and Exclusion <br>Immigrant Welfare Rights in Global Comparison
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -26,6 +26,7 @@ navbar-links:
     - Team: "team"
     - Publications: "publications"
     - Contact: "contact"
+  Data Privacy: "privacy"
   CRC 1342: "https://www.socialpolicydynamics.de/en/"
 
 ################
@@ -50,11 +51,11 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "migrant-sp@uni-bremen.de"
+  email: "immigsr@uni-bremen.de"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
-  twitter: SFB1342
+#  twitter: SFB1342
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -80,7 +81,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+#rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -110,7 +111,7 @@ feed_show_tags: false
 post_search: false
 
 # Add a button in the footer to edit the current page. Only works if your website is hosted on GitHub
-edit_page_button: true
+edit_page_button: false
 
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
@@ -118,7 +119,7 @@ edit_page_button: true
 navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "protection,welfare,rights,migsp,immigrant,social assistance,unemployment insurance,welfare benefit,access,welfare system,civil society,inclusion,exclusion"
+#keywords: "protection,welfare,rights,migsp,immigrant,immigsp,social assistance,unemployment insurance,welfare benefit,access,welfare system,civil society,inclusion,exclusion"
 
 ######################################
 # --- Colours / background image --- #

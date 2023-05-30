@@ -5,11 +5,10 @@ title: ImmigSP Data
 <hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
 
 <br /><br />
-When using the data, please reference the following publications 
 
 References to the data should be made as:
 <p style="border-width:1px; border-style:solid; border-color:#228b22; padding: 2em;">
-Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Version 2022. SFB 1342. ADD LINK </p>
+Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social Protection Data Set (MigSP). Version 2022. SFB 1342. </p>
 
 References to the codebook should be made as:
 <p style="border-width:1px; border-style:solid; border-color:#228b22; padding: 2em;">
