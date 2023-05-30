@@ -13,7 +13,7 @@
 title: Immigrant Social Rights Project
 
 # Your name to show in the footer
-author: CRC 1342/B04 - Causes of Inclusion and Exclusion <br>Immigrant Welfare Rights in Global Comparison
+author: B04 - Causes of Inclusion and Exclusion: Immigrant Welfare Rights in Global Comparison
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -26,6 +26,7 @@ navbar-links:
     - Team: "team"
     - Contact: "contact"
   Data Privacy: "privacy"
+  Imprint: "Imprint"
   CRC 1342: "https://www.socialpolicydynamics.de/en/"
 
 ################
