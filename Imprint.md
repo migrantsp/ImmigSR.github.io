@@ -1,12 +1,17 @@
 ---
 layout: home
-title: Data Privacy
+title: Imprint
 
 ---
-<hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
+<hr width="60%" style="height: 5px; background-color: #228b22; border-radius: 2px;" align="center">
 
-**Responsible for the contents of this website § 55 Abs. 2 RStV:**
-Friederike Römer 
-Mauerstraße 76
-10117 Berlin
-Email  immigsr@uni-bremen.de
+**Responsible for the contents of this website § 55 Abs. 2 RStV:** <br><br>
+Friederike Römer <br>
+Mauerstraße 76<br>
+10117 Berlin<br>
+<br>
+**immigsr@uni-bremen.de**
+
+**Disclaimer**
+I do not take on responsibility for the contents of externally linked web pages.
+Photographic Copyrights
