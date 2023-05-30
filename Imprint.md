@@ -12,6 +12,8 @@ Mauerstraße 76<br>
 <br>
 **immigsr@uni-bremen.de**
 
-**Disclaimer**
+**Disclaimer**<br>
 I do not take on responsibility for the contents of externally linked web pages.
 Photographic Copyrights
+<br><br>
+
