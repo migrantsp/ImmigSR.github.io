@@ -3,8 +3,8 @@ layout: home
 title: Data Privacy
 
 ---
-<hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
-
+<br><br>
+<hr style="height: 5px; background-color: #228b22; border-radius: 2px;" width="60%" align="center">
 <br>
 **The owner of the website does not collect personal information.**
 
