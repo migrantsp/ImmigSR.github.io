@@ -26,7 +26,6 @@ navbar-links:
     - Team: "team"
     - Contact: "contact"
   Data Privacy: "privacy"
-  Imprint: "Imprint"
   CRC 1342: "https://www.socialpolicydynamics.de/en/"
 
 ################
@@ -136,7 +135,7 @@ link-col: "#228b22"
 hover-col: "#0085A1"
 footer-col: "#3d801a"
 footer-text-col: "#FFFFFF"
-footer-link-col: "#404040"
+footer-link-col: "#FFFFFF"
 footer-hover-col: "#0085A1"
 footer-border-col: "#383838"
 
