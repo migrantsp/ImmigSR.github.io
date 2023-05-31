@@ -14,7 +14,7 @@ The Immigrant Social Rights Data Set (ImmigSR)* provides data on immigrant welfa
 
 At the heart of our conceptualization lies the argument that the term "immigrant welfare rights" encompasses a variety of direct and indirect restrictions for different groups of immigrants across an array of different benefit and services. Immigrant welfare rights therefore are a multi-dimensional construct: (1) First, rights differ by the legal category of immigrant that is considered. (2) Second, rights differ across welfare benefit schemes. (3) Third, restrictions in immigrant welfare rights might occur through direct or indirect measures. 
 <br><br><br><br>
-<img width='500' height='350' class="center" src="/assets/img/immigrant welfare rights.png" alt="">
+<img width='500' height='350' class="center" src="/assets/img/immigrant social rights.png" alt="">
 
 <br />      
 <h3> Methodology </h3>  
