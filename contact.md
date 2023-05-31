@@ -21,7 +21,20 @@ Mauerstraße 76<br>
 10117 Berlin<br>
 <br>
 **immigsr@uni-bremen.de**
+<br>
+<br>
+<h3 id>Impressum</h><br><br>
+**Responsible for the contents of this website § 55 Abs. 2 RStV:** <br><br>
+Friederike Römer <br>
+Mauerstraße 76<br>
+10117 Berlin<br>
+<br>
+**immigsr@uni-bremen.de**
+<br><br>
 
-<br>
-<br>
+**Disclaimer**<br>
+I do not take on responsibility for the contents of externally linked web pages.
+
+**Photographic Copyrights**
+<br><br>
 
