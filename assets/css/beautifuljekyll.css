@@ -35,24 +35,24 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1em;
 }
 h1 {
-    font-size: 38px;
+    font-size: 28px;
     font-family:'Open Sans';
     text-align:center;
   font-weight: 600;
 }
 h2 {
-    font-size: 38px;
+    font-size: 28px;
     font-family:'Open Sans';
   
 }
 h3 {
-    font-size: 38px;
+    font-size: 28px;
     font-family:'Open Sans';
     color: #228b22;
   font-weight:200;
 }
 h4 {
-    font-size: 20px;
+    font-size: 14px;
     font-family:'Open-sans';
     color: #228b22;
 }
@@ -81,6 +81,26 @@ blockquote p:first-child {
 }
 hr.small {
   max-width: 6.25rem;
+
+
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+p { margin-bottom: 0.25cm; direction: ltr; line-height: 115%; text-align: left; orphans: 2; widows: 2; background: transparent }a:link { color: #0000ff; text-decoration: underline }
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;
@@ -409,10 +429,11 @@ img {
 footer {
   padding: 1.875rem 0;
   border-top: 4px #228b22 solid;
-  margin-top: 3.125rem;
+  margin-top: 2.825rem;
   font-size: 0.875rem;
+  border-radius: 10px;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
-  border-bottom: 2px solid {{ site.footer-border-col | default: "#228b22" }};
+  border-bottom: 2px solid {{ site.footer-border-col | default: "#383838" }};
   {% if site.footer-img %}
     background-image: url({{ site.footer-img | relative_url }});
     background-attachment: fixed;
@@ -420,11 +441,11 @@ footer {
 }
 
 footer p.text {
-  color: {{ site.footer-text-col | default: "#777777" }} !important;
+  color: {{ site.footer-text-col | default: "#FBFBF9" }} !important;
 }
 
 footer a {
-  color: {{ site.footer-link-col | default: "#404040" }};
+  color: {{ site.footer-link-col | default: "#FBFBF9" }};
 }
 
 footer a:hover,
@@ -455,7 +476,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   footer {
-    padding: 3.125rem 0;
+    padding: 1.975rem 0;
   }
   footer .footer-links {
     font-size: 1.125rem;
@@ -704,7 +725,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 3.125rem;
+  font-size: 2.1875rem;
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
@@ -712,7 +733,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 1.6875rem;
+  font-size: 2.18755rem;
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -757,7 +778,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 2.1875rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
