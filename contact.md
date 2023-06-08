@@ -42,7 +42,7 @@ Friederike Römer: ©Minda de Gunzburg Center for European Studies, Harvard Univ
 Mara Junge: ©Lukas Klose, University of Bremen<br>
 Eloisa Harris: ©Lukas Klose, University of Bremen<br>
 
-<br><br><br>
+<br><br>
 **Screendesign and Programming:** 
 Svenja Dirschbacher 
 
