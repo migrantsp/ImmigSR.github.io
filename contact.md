@@ -26,7 +26,7 @@ Mauerstraße 76<br>
 <br>
 <br>
 <h3 id>Impressum</h3><br><br>
-**Responsible for the contents of this website § 55 Abs. 2 RStV:** <br><br>
+**Responsible for the contents of this website § 55 Abs. 2 RStV:** <br>
 Friederike Römer <br>
 Mauerstraße 76<br>
 10117 Berlin<br>
@@ -34,15 +34,15 @@ Mauerstraße 76<br>
 Email: immigsr@uni-bremen.de
 <br><br>
 
-**Disclaimer**<br><br>
+**Disclaimer**<br>
 I do not take on responsibility for the contents of externally linked web pages.
-<br><br>
-**Photographic Copyrights**<br><br>
+<br><br><br>
+**Photographic Copyrights**<br>
 Friederike Römer: ©Minda de Gunzburg Center for European Studies, Harvard University<br>
 Mara Junge: ©Lukas Klose, University of Bremen<br>
 Eloisa Harris: ©Lukas Klose, University of Bremen<br>
 
-<br><br>
-Screendesign and Programming: 
+<br><br><br>
+**Screendesign and Programming:** 
 Svenja Dirschbacher 
 
