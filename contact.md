@@ -3,29 +3,46 @@ layout: home
 title: Contact
 
 ---
-<hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
+<hr width="60%" style="height: 5px; background-color: #228b22; border-radius: 2px;" align="center">
 <br><br>
 <h3> We look forward to hearing from you!</h3>
 <br><br>
 
 **Contact Information**
 
-CRC 1342 "Global Dynamics of Social Policy"<br>
-Project B04 "Causes of Inclusion and Exclusion: Immigrant Welfare Rights in Global Comparison"<br>
+Project B04 “Causes of Inclusion and Exclusion: Immigrant Welfare Rights in Global Comparison”<br><br>
+CRC 1342 “Global Dynamics of Social Policy”<br>
 Mary-Somerville-Straße 7<br>
-28359 Bremen  
-
-**immigsr@uni-bremen.de**
-
-<br>
-<br>
-
-<h3> Imprint </h3>
+28359 Bremen<br>
 <br><br>
-The CRC 1342 is an institute of the University of Bremen. The University of Bremen is a corporation under public law and is represented by the President Prof. Dr. Jutta Günther.
-Supervisory authority: The Free Hanseatic City of Bremen, The Department of Education and Science, Rembertiring 8-12, 28195 Bremen.
-VAT identification number pursuant to Article § 27 a UStG Umsatzsteuer-Nr.: DE 811 245 070
-Responsible for the content of this website according to § 10 paragraph 3 MDStV: the director of the CRC 1342 Prof. Dr. Herbert Obinger
 
-Director: Prof. Dr. Herbert Obinger <br>
-E-Mail: herbert.obinger@uni-bremen.de
+German Centre for Integration and Migration Research (DeZIM)<br>
+Mauerstraße 76<br>
+10117 Berlin<br>
+<br>
+**immigsr@uni-bremen.de**
+<br>
+<br>
+<br>
+<br>
+<h3 id>Impressum</h3><br><br>
+**Responsible for the contents of this website § 55 Abs. 2 RStV:** <br>
+Friederike Römer <br>
+Mauerstraße 76<br>
+10117 Berlin<br>
+<br>
+Email: immigsr@uni-bremen.de
+<br><br>
+
+**Disclaimer**<br>
+I do not take on responsibility for the contents of externally linked web pages.
+<br><br><br>
+**Photographic Copyrights**<br>
+Friederike Römer: ©Minda de Gunzburg Center for European Studies, Harvard University<br>
+Mara Junge: ©Lukas Klose, University of Bremen<br>
+Eloisa Harris: ©Lukas Klose, University of Bremen<br>
+
+<br><br>
+**Screendesign and Programming:** 
+Svenja Dirschbacher 
+
