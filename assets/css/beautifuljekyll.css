@@ -495,7 +495,8 @@ footer .logo-container {
 
 /* Style for individual logo images */
 .logo-container img {
-  width: 100px; /* Adjust the size as needed */
+  hight: 100px; /* Adjust the size as needed */
+widht: auto;
   margin: 0 10px; /* Adjust spacing between logos */
 }
 }
