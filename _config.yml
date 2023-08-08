@@ -25,6 +25,7 @@ navbar-links:
   Country Coverage: "coverage"
   About us:
     - Team: "team"
+    - Publications: "publications"
     - Contact: "contact"
   Data Privacy: "privacy"
   CRC 1342: "https://www.socialpolicydynamics.de/en/"
