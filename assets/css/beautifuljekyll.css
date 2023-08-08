@@ -487,6 +487,17 @@ footer .footer-custom-content {
   footer .footer-custom-content {
     font-size: 1rem;
   }
+footer .logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Style for individual logo images */
+.logo-container img {
+  width: 100px; /* Adjust the size as needed */
+  margin: 0 10px; /* Adjust spacing between logos */
+}
 }
 
 /* --- Post preview (feed) --- */
