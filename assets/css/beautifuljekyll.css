@@ -28,7 +28,14 @@ p { front-family:'Open Sans';
   text-align: justify;
     line-height: 1.6em;
     color: #333;
+
 }
+p1 { front-family:'Open Sans';
+    font-size: 8px;
+  text-align: justify;
+    line-height: 1.6em;
+    color: #333;}
+
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans';'sans-serif';
   font-weight: 600;
