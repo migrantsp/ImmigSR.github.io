@@ -9,4 +9,6 @@ kramdown:
 <br><br>
 <br>
 
-comming soon...
+<img src="/assets/img/migsp_map_new_nolegend.png" alt="" class="center" style="align:center;">
+<br><br>
+
