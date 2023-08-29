@@ -1,9 +1,8 @@
 ---
 layout: home
-title: ImmigSP Data
+title: ImmigSR Data
 ---
-<hr width="60%" style="height: 10px; background-color: #228b22; border-radius: 0;" align="center">
-
+<hr width="60%" style="height: 5px; background-color: #228b22; border-radius: 2px;" align="center">
 <br /><br />
 
 References to the data should be made as:
@@ -50,13 +49,13 @@ Römer, F., Harris, E., Henninger, J., & Missler, F. (2021). The Migrant Social 
 <hr width="100%" style="height: 3px; background-color: #228b22; border-radius: 0;" align="center">
         
  <br />  
-<h2> Technical Report </h2>
+<h2 id="codebook"> Technical Report </h2>
      <br /><br />  
 <p>This technical report describes the raw and scored variables in the dataset, provides an overview of the missing types, and introduces the filters applied.</p>
 <br /><br />        
-        
-<embed src="/files/Technical_Report_Version2021.pdf" width="80%" height="800px" float="left" />
-        
+<center>    
+<embed src="/files/Technical_Report_Version2021.pdf" width="80%" height="800px" float="" />
+  </center>          
       
 
 </div>
